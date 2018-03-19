@@ -1,5 +1,5 @@
 # snakefusion
-Javascript translation of CodeBullet SnakeFusion AI
+Port of CodeBullet's SnakeFusion AI from Java to Javascript
 
 https://github.com/Code-Bullet/SnakeFusion
 
