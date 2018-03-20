@@ -11,4 +11,6 @@ I added a "can't go backwards" step, which I recommend keeping "on", because it 
 
 The graphing is still a bit sketchy, I will revisit showing the progression of the evolution of each species.
 
-The data part of the project is accomplished asynchronously via Ajax and a couple of simple PHP script to read and write the data as json.
+The data part of the project is accomplished asynchronously via Ajax and a couple of simple PHP script to read and write the data as json.  Using json makes it very easy to save and retrieve the data, and especially to assign successful brains to other snakes.
+
+Thank you CodeBullet.
